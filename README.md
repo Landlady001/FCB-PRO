@@ -20,8 +20,10 @@ SELECT
 ```
 Google Query Sheet
 
-SELECT * FROM TABLE 1
-WHERE CONDITION = MET
-
 ```
-![](DSC_0015.JPG)
+
+![](DSC_0015.JPG.jpg)
+
+| Heading 1 | Heading 2| Heading 3|
+| ------- | -------- | ----------- |
+| Data 1 | Data 2 | Data 3|
